@@ -1,0 +1,2 @@
+node_communicate
+-DCATKIN_DEVEL_PREFIX=/home/rosen/Rosen/ROS/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rosen/Rosen/ROS/catkin_ws/install -G Unix Makefiles

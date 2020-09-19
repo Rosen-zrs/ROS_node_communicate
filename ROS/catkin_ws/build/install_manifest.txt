@@ -1,0 +1,9 @@
+/home/rosen/Rosen/ROS/catkin_ws/install/_setup_util.py
+/home/rosen/Rosen/ROS/catkin_ws/install/env.sh
+/home/rosen/Rosen/ROS/catkin_ws/install/setup.bash
+/home/rosen/Rosen/ROS/catkin_ws/install/local_setup.bash
+/home/rosen/Rosen/ROS/catkin_ws/install/setup.sh
+/home/rosen/Rosen/ROS/catkin_ws/install/local_setup.sh
+/home/rosen/Rosen/ROS/catkin_ws/install/setup.zsh
+/home/rosen/Rosen/ROS/catkin_ws/install/local_setup.zsh
+/home/rosen/Rosen/ROS/catkin_ws/install/.rosinstall
